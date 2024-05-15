@@ -5,21 +5,21 @@
     
     
     
-    <link>https://Studentas11.github.io/categories/go/</link>
+    <link>http://localhost:1313/categories/go/</link>
     <description>Recent content in Go on SiteNEW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://Studentas11.github.io/categories/go/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/categories/go/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction aux modèles (Hu)go</title>
-      <link>https://Studentas11.github.io/posts/introduction-aux-modeles-hugo/</link>
+      <link>http://localhost:1313/posts/introduction-aux-modeles-hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Studentas11.github.io/posts/introduction-aux-modeles-hugo/</guid>
+      <guid>http://localhost:1313/posts/introduction-aux-modeles-hugo/</guid>
       <description>
         
           

@@ -5,21 +5,21 @@
     
     
     
-    <link>https://Studentas11.github.io/tags/hugo/</link>
+    <link>http://localhost:1313/tags/hugo/</link>
     <description>Recent content in Hugo on SiteNEW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://Studentas11.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://Studentas11.github.io/posts/hugoisforlovers/</link>
+      <link>http://localhost:1313/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Studentas11.github.io/posts/hugoisforlovers/</guid>
+      <guid>http://localhost:1313/posts/hugoisforlovers/</guid>
       <description>
         
           

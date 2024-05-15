@@ -5,21 +5,21 @@
     
     
     
-    <link>https://Studentas11.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on SiteNEW</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://Studentas11.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://Studentas11.github.io/posts/creating-a-new-theme/</link>
+      <link>http://localhost:1313/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Studentas11.github.io/posts/creating-a-new-theme/</guid>
+      <guid>http://localhost:1313/posts/creating-a-new-theme/</guid>
       <description>
         
           
@@ -37,10 +37,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://Studentas11.github.io/posts/migrate-from-jekyll/</link>
+      <link>http://localhost:1313/posts/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Studentas11.github.io/posts/migrate-from-jekyll/</guid>
+      <guid>http://localhost:1313/posts/migrate-from-jekyll/</guid>
       <description>
         
           
@@ -59,10 +59,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.
     
     <item>
       <title>LABADIENA SKAITYTOJAU</title>
-      <link>https://Studentas11.github.io/posts/labadiena/</link>
+      <link>http://localhost:1313/posts/labadiena/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://Studentas11.github.io/posts/labadiena/</guid>
+      <guid>http://localhost:1313/posts/labadiena/</guid>
       <description>
         
           
@@ -71,8 +71,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.
         
         
         
-           Sveikinuosi su Jumis is savo sukurtos skilties! # &amp;ldquo;The best way to learn something is to play with it&amp;rdquo; - Sutinkate?
-{(&amp;#34;image src=&amp;#34;/img/NUMBER.jpg&amp;#34; alt=&amp;#34;Hello Friend&amp;#34; position=&amp;#34;center&amp;#34; style=&amp;#34;border-radius: 8px;&amp;#34;)} 
+           Sveikinuosi su Jumis is savo sukurtos skilties! # {(&amp;#34;image src=&amp;#34;/img/NUMBER.jpg&amp;#34; alt=&amp;#34;Hello Friend&amp;#34; position=&amp;#34;center&amp;#34; style=&amp;#34;border-radius: 8px;&amp;#34;)} 
           
         
         </description>
@@ -80,10 +79,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.
     
     <item>
       <title>Création d&#39;un nouveau thème</title>
-      <link>https://Studentas11.github.io/posts/creation-dun-nouveau-theme/</link>
+      <link>http://localhost:1313/posts/creation-dun-nouveau-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Studentas11.github.io/posts/creation-dun-nouveau-theme/</guid>
+      <guid>http://localhost:1313/posts/creation-dun-nouveau-theme/</guid>
       <description>
         
           
@@ -100,10 +99,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://Studentas11.github.io/posts/goisforlovers/</link>
+      <link>http://localhost:1313/posts/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Studentas11.github.io/posts/goisforlovers/</guid>
+      <guid>http://localhost:1313/posts/goisforlovers/</guid>
       <description>
         
           
@@ -121,10 +120,10 @@ This document is a brief primer on using Go templates.
     
     <item>
       <title>Débuter avec Hugo</title>
-      <link>https://Studentas11.github.io/posts/debuter-avec-hugo/</link>
+      <link>http://localhost:1313/posts/debuter-avec-hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Studentas11.github.io/posts/debuter-avec-hugo/</guid>
+      <guid>http://localhost:1313/posts/debuter-avec-hugo/</guid>
       <description>
         
           
@@ -143,7 +142,7 @@ appropriée à votre système d&amp;rsquo;exploitation et votre architecture.&lt
 &lt;p&gt;Sauvegardez le fichier téléchargé à un endroit précis, afin de l&amp;rsquo;utiliser dans
 l&amp;rsquo;étape suivante.&lt;/p&gt;
 &lt;p&gt;Des informations plus complètes sont disponibles sur la page
-&lt;a href=&#34;https://Studentas11.github.io/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;http://localhost:1313/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
           
         
         </description>
@@ -151,10 +150,10 @@ l&amp;rsquo;étape suivante.&lt;/p&gt;
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://Studentas11.github.io/posts/hugoisforlovers/</link>
+      <link>http://localhost:1313/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Studentas11.github.io/posts/hugoisforlovers/</guid>
+      <guid>http://localhost:1313/posts/hugoisforlovers/</guid>
       <description>
         
           
@@ -175,10 +174,10 @@ Follow the following steps:
     
     <item>
       <title>Introduction aux modèles (Hu)go</title>
-      <link>https://Studentas11.github.io/posts/introduction-aux-modeles-hugo/</link>
+      <link>http://localhost:1313/posts/introduction-aux-modeles-hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Studentas11.github.io/posts/introduction-aux-modeles-hugo/</guid>
+      <guid>http://localhost:1313/posts/introduction-aux-modeles-hugo/</guid>
       <description>
         
           
@@ -196,10 +195,10 @@ Ce document est une introduction sur l&amp;rsquo;utilisation de Go templates.
     
     <item>
       <title>Migrer vers Hugo depuis Jekyll</title>
-      <link>https://Studentas11.github.io/posts/migrer-vers-hugo-depuis-jekyll/</link>
+      <link>http://localhost:1313/posts/migrer-vers-hugo-depuis-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://Studentas11.github.io/posts/migrer-vers-hugo-depuis-jekyll/</guid>
+      <guid>http://localhost:1313/posts/migrer-vers-hugo-depuis-jekyll/</guid>
       <description>
         
           
